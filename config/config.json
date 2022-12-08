@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "a1b2c3d4^^",
+    "database": "node",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "a1b2c3d4^^",
+    "database": "node",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "a1b2c3d4^^",
+    "database": "node",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
